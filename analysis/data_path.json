@@ -1,0 +1,72 @@
+{
+  "ACAS_Xu": {
+    "MDPFuzz": [
+      ""
+    ],
+    "G-Model": [
+      ""
+    ],
+    "CureFuzz": [
+      ""
+    ],
+    "AdaFuzz": [
+      ""
+    ]
+  },
+  "IL_CARLA": {
+    "MDPFuzz": [
+      ""
+    ],
+    "G-Model": [
+      ""
+    ],
+    "CureFuzz": [
+      ""
+    ],
+    "AdaFuzz": [
+      ""
+    ]
+  },
+  "MARL_CoopNavi": {
+    "MDPFuzz": [
+      ""
+    ],
+    "G-Model": [
+      ""
+    ],
+    "CureFuzz": [
+      ""
+    ],
+    "AdaFuzz": [
+      ""
+    ]
+  },
+  "RL_BipedalWalker": {
+    "MDPFuzz": [
+      ""
+    ],
+    "G-Model": [
+      ""
+    ],
+    "CureFuzz": [
+      ""
+    ],
+    "AdaFuzz": [
+      ""
+    ]
+  },
+  "RL_CARLA": {
+    "MDPFuzz": [
+      ""
+    ],
+    "G-Model": [
+      ""
+    ],
+    "CureFuzz": [
+      ""
+    ],
+    "AdaFuzz": [
+      ""
+    ]
+  }
+}
